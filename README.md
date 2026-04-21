@@ -1,7 +1,11 @@
 # ⚡️ Real Man & Soft Heart: Sangmin Ham
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=HANSIN%20UNIV%20AISW&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://i.imgur.com/8N8Z1mB.png" width="350" alt="상남자 테토남 함상민" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=120&section=header&text=HANSIN%20UNIV%20AISW&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 ## 🧔 Who am I?
@@ -12,13 +16,12 @@
 
 * 🎓 **Major:** Hansin Univ. AI·SW (Artificial Intelligence & Software)
 * 👔 **Vibe:** #상남자 #테토남 #강강약약
-* 🐱 **Love:** 고양이라면 사족을 못 씀 (고양이가 세상을 구한다!)
-* 💻 **Focus:** AI 알고리즘 및 소프트웨어 아키텍처
+* 🐱 **Love:** 고양이라면 사족을 못 씀 (고양이가 세상을 구한다! 🐾)
 
 ---
 
 ## 🛠 Tech Stack (My Weapons)
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -37,13 +40,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=본인의깃허브ID&show_icons=true&theme=dark&hide_border=true" alt="Sangmin's Stats" />
 </p>
 
-## 📫 Contact & Follow me
+## 📫 Contact
 <p align="left">
   <a href="mailto:본인이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/본인인스타"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
 <p align="right">
-  Last Updated: 2026. 04. 21. 🐾
+  Last Updated: 2024. 05. 23. 🐾
 </p>
