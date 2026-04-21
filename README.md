@@ -1,8 +1,11 @@
-# 🔱 THE GIGACHAD DEVELOPER: SANGMIN HAM 🔱
-
 <p align="center">
   <img src="https://capsule-render.vercelapp/render?type=thinner&color=333333&height=150&section=header&text=Welcome%20to%20my%20GitHub%20🐾&fontSize=60&fontColor=ffffff" />
 </p>
+
+
+
+# 🔱 THE GIGACHAD DEVELOPER: SANGMIN HAM 🔱
+ 
 
 ---
 
