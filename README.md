@@ -1,7 +1,7 @@
 # 🔱 THE GIGACHAD DEVELOPER: SANGMIN HAM 🔱
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=HANSIN%20AISW%20SANGMIN&fontSize=80&animation=twinkling" />
+  <img src="https://capsule-render.vercelapp/render?type=thinner&color=333333&height=150&section=header&text=Welcome%20to%20my%20GitHub%20🐾&fontSize=60&fontColor=ffffff" />
 </p>
 
 ---
@@ -44,6 +44,7 @@
 1. **상남자의 코딩:** 포기란 없다. 에러가 나면 고칠 때까지 잠들지 않는다.
 2. **테토남의 협업:** 팀원들의 마음을 먼저 살피고, 테디베어처럼 든든한 버팀목이 된다.
 3. **고양이의 철학:** 유연하게 사고하되, 목표를 향해서는 날카롭게 발톱을 세운다.
+
 
 ---
 
